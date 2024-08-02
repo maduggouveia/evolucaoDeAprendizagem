@@ -37,7 +37,7 @@
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados neste módulo?
 
--
--
--
-
+- Sinto que consegui aprimorar minha lógica, apesar das dificuldades, parece que algumas coisas estão ficando mais fáceis para mim
+- Descobri a diferença de tipos comuns e os utilitários, além de saber agora como manipular arrays e strings com diferentes métodos para otimizar o tempo, além de deixar o código mais arrumado
+- Continuo pensando em formas de melhorar minha presença no LinkedIn, mas também no GitHub e em outras plataformas que podem abrir portas para o meu crescimento profissional
+- Estou começando a ter ideias para projetos pessoais e a pensar no meu portfolio
